@@ -1,7 +1,7 @@
 from tkinter import *
 root = Tk()
 root.title("Untitled - Notepad")
-root.wm_iconbitmap("Programming.ico")
+root.wm_iconbitmap("Progrmming.ico")
 root.geometry("644x788")
 # Add TextAread
 TextArea = Text(root, font="lucida 13")
